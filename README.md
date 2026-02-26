@@ -12,7 +12,7 @@ Comprehensive risk management system for equity portfolios implementing multiple
 
 ## Portfolio Composition
 Equal-weighted portfolio across sectors:
-- **Technology:** AAPL, MSFT, GOOGL, AMZN, TSLA
+- **Technology:** AAPL, MSFT, GOOGL, META, TSLA
 - **Financials:** JPM, V
 - **Healthcare:** JNJ
 - **Consumer Staples:** WMT, PG
