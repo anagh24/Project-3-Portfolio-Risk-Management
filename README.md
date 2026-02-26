@@ -263,7 +263,7 @@ For a $100,000 portfolio at 95% confidence:
 
 ## Author
 [Anagh Das]  
-[LinkedIn](linkedin.com/in/dasanagh) | [Email](ddas948@gmail.com)
+[LinkedIn](https://linkedin.com/in/dasanagh) | [Email](mailto:ddas948@gmail.com)
 
 ---
 
